@@ -56,7 +56,7 @@ module.exports = {
             port: 8545,
             network_id: '*',
         },
-        testnet: {
+        ephemery: {
             url: `${providerUrl}`,
             accounts: {
                 mnemonic: mnemonicPhrase,
